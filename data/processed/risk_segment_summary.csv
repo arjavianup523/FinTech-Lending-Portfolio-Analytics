@@ -1,0 +1,4 @@
+risk_segment,number_of_loans,overdue_loans,total_loan_principal,overdue_amount,outstanding_due_to_date,delinquency_rate_pct
+High Risk,940,798,94384377,27364513.21,27364513.21,84.89
+Low Risk,597,232,61830590,2657180.62,2657180.62,38.86
+Medium Risk,263,157,27215154,3278595.67,3278595.67,59.7
